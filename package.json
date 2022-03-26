@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "kind-of": "^6.0.3",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "node-sass": "^4.14.1",
     "sass-loader": "^8.0.2"
   }
